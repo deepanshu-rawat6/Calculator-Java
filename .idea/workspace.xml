@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4036a4a5-8e06-421c-867f-feda130a6172" name="Changes" comment="updating project files">
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+    <list default="true" id="4036a4a5-8e06-421c-867f-feda130a6172" name="Changes" comment="adding Dockerfile">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Calculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +97,7 @@
       <updated>1679584593613</updated>
       <workItem from="1679584593714" duration="2220000" />
       <workItem from="1679588870320" duration="5661000" />
-      <workItem from="1679597405931" duration="2207000" />
+      <workItem from="1679597405931" duration="2805000" />
     </task>
     <task id="LOCAL-00001" summary="updating POM.xml">
       <created>1679594275817</created>
@@ -112,7 +113,21 @@
       <option name="project" value="LOCAL" />
       <updated>1679594558348</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="adding Dockerfile">
+      <created>1679599869258</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679599869259</updated>
+    </task>
+    <task id="LOCAL-00004" summary="adding Dockerfile">
+      <created>1679599925171</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679599925171</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,6 +136,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="updating POM.xml" />
     <MESSAGE value="updating project files" />
-    <option name="LAST_COMMIT_MESSAGE" value="updating project files" />
+    <MESSAGE value="adding Dockerfile" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding Dockerfile" />
   </component>
 </project>
